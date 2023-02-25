@@ -1,2 +1,2 @@
 # Propagation & Topo Diffusion-on-Graph
-This is a research of Dong Liu, directed by Professor Meng Jiang (University of Notre Dame) and Postoc Research Fellow Wentao Zhang (MILA)
+This is a research of Dong Liu, directed by Professor Meng Jiang (University of Notre Dame).
